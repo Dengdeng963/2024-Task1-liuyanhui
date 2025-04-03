@@ -2,7 +2,7 @@
 2024-Task1-liuyanhui
 ├── docs/
 │   └── task1.md
-├── images/
+├── image/
 │   ├── liaoning-university.png
 │   └── name-evaluation.png
 └── README.md
